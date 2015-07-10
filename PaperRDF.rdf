@@ -1,0 +1,1026 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#" > 
+  <rdf:Description rdf:nodeID="A0">
+    <vcard:Authors rdf:nodeID="A1"/>
+    <vcard:Title>Feature Constraint Logics for Unification Grammars</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <vcard:Authors rdf:nodeID="A3"/>
+    <vcard:Title>Simulation Sprachlichen Verstehens: Generelle Probleme bei der semantischen Interpretation der nat¨¹rlichen Sprache</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <vcard:Authors rdf:nodeID="A5"/>
+    <vcard:Title>Lernverfahren zur Vervollst£¿ndigung von Hornklauselmengen durch inverse Resolution</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <vcard:Authors rdf:nodeID="A7"/>
+    <vcard:Title>On Subsumption and Semiunifaction in Feature Algebras</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <vcard:Authors rdf:nodeID="A9"/>
+    <vcard:Title>Zeit und Aspekt bei der Verarbeitung nat¨¹rlicher Sprachen</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <vcard:Author3>Carsten Damm</vcard:Author3>
+    <vcard:Author2>Bernd I. Dahn</vcard:Author2>
+    <vcard:Author1>Gosse Bouma</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <vcard:Authors rdf:nodeID="A12"/>
+    <vcard:Title>Koordination von nichtverbalen Satzkonstituenten</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <vcard:Authors rdf:nodeID="A14"/>
+    <vcard:Title>Types, Modules and Databases in the Logic Programming Language PROTOS-L</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <vcard:Author3>Christopher Lusena</vcard:Author3>
+    <vcard:Author2>Sitaram Lanka</vcard:Author2>
+    <vcard:Author1>Karl-Hans Bl£¿sius</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A16">
+    <vcard:Author3>Martin Gugat</vcard:Author3>
+    <vcard:Author2>J¨¹rgen Pietsch</vcard:Author2>
+    <vcard:Author1>Kjell Johan Saeb£¿</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A17">
+    <vcard:Author3>Volker Jantzen</vcard:Author3>
+    <vcard:Author2>Donald D. Chamberlin</vcard:Author2>
+    <vcard:Author1>Joachim Maier</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A18">
+    <vcard:Author3>Stefan Gerberding</vcard:Author3>
+    <vcard:Author2>Cesare A. Galtieli</vcard:Author2>
+    <vcard:Author1>William C. Rounds</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A19">
+    <vcard:Author3>R. Helmig</vcard:Author3>
+    <vcard:Author2>Adrian M¨¹ller</vcard:Author2>
+    <vcard:Author1>Bruce G. Lindsay</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A20">
+    <vcard:Author3>Claudia Mrotzek</vcard:Author3>
+    <vcard:Author2>Burkhard Kehrbusch</vcard:Author2>
+    <vcard:Author1>Christoph Beierle</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A21">
+    <vcard:Author3>Astrid Schm¨¹cker-Schend</vcard:Author3>
+    <vcard:Author2>Jean-Marc Cadiou</vcard:Author2>
+    <vcard:Author1>Ipke Wachsmuth</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A22">
+    <vcard:Authors rdf:nodeID="A10"/>
+    <vcard:Title>Zur Behandlung komplexer Objekte in LILOG</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A23">
+    <vcard:Author3>Angelika Storrer</vcard:Author3>
+    <vcard:Author2>Sai Choi Kwan</vcard:Author2>
+    <vcard:Author1>Bernd Walter</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A24">
+    <vcard:Author3>Mike Kelley</vcard:Author3>
+    <vcard:Author2>Egon B£¿rger</vcard:Author2>
+    <vcard:Author1>Roland Seiffert</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A25">
+    <vcard:Author3>Bernd I. Dahn</vcard:Author3>
+    <vcard:Author2>F. G¨¹nthner</vcard:Author2>
+    <vcard:Author1>Gert Smolka</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A26">
+    <vcard:Author3>Karin Neuhold</vcard:Author3>
+    <vcard:Author2>Dines Bj£¿rner</vcard:Author2>
+    <vcard:Author1>Hinrich Sch¨¹tze</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A27">
+    <vcard:Authors rdf:nodeID="A15"/>
+    <vcard:Title>Weiterentwicklung des Earley-Algorithmus f¨¹r kontextfreie und ID/LP-Grammatiken</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A28">
+    <vcard:Authors rdf:nodeID="A16"/>
+    <vcard:Title>Gebietskonstituierende Prozesse</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A29">
+    <vcard:Authors rdf:nodeID="A20"/>
+    <vcard:Title>Database Support for the PROTOS-L System</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A30">
+    <vcard:Authors rdf:nodeID="A19"/>
+    <vcard:Title>Ein Fact Manager zur persistenten Speicherung variabel strukturierter komplexer Objekte</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A31">
+    <vcard:Authors rdf:nodeID="A17"/>
+    <vcard:Title>Integration von Constraints in die LLILOG Sortenbeschreibungssprache</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A32">
+    <vcard:Authors rdf:nodeID="A18"/>
+    <vcard:Title>The Algebra of Feature Graph Specifications</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A33">
+    <vcard:Authors rdf:nodeID="A26"/>
+    <vcard:Title>How to Fit the Lambek Calculus into the Chomsky Hierarchy</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A34">
+    <vcard:Author3>Subhendu Bikash Hazra</vcard:Author3>
+    <vcard:Author2>Heiner Semle</vcard:Author2>
+    <vcard:Author1>H. Raymond Strong</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A35">
+    <vcard:Authors rdf:nodeID="A21"/>
+    <vcard:Title>PROTOS-L: Towards a Knowledge Base Programming Language</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A36">
+    <vcard:Authors rdf:nodeID="A23"/>
+    <vcard:Title>EFTA Query Processing in LILOG-DB</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A37">
+    <vcard:Authors rdf:nodeID="A24"/>
+    <vcard:Title>Datenbankunterst¨¹tzung f¨¹r wissensbasierte Systeme</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A38">
+    <vcard:Author3>Matthias Krause</vcard:Author3>
+    <vcard:Author2>Theodor Lettmann</vcard:Author2>
+    <vcard:Author1>Kai-Uwe Carstensen</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A39">
+    <vcard:Authors rdf:nodeID="A25"/>
+    <vcard:Title>Verarbeitung nat¨¹rlicher Sprache</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A40">
+    <vcard:Author3>Rainer Tichatschke</vcard:Author3>
+    <vcard:Author2>R. Zieschank</vcard:Author2>
+    <vcard:Author1>Jean-Yves Lerner</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A41">
+    <vcard:Author3>Stefan J. Schierholz</vcard:Author3>
+    <vcard:Author2>Markus H£¿hfeld</vcard:Author2>
+    <vcard:Author1>G¨¹nther G£¿rz</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A42">
+    <vcard:Author3>Paul B. Hermanns</vcard:Author3>
+    <vcard:Author2>Gisela Sch£¿pke</vcard:Author2>
+    <vcard:Author1>Raymond A. Lorie</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A43">
+    <vcard:Author3>Attahiru Sule Alfa</vcard:Author3>
+    <vcard:Author2>Ulrike Schwall</vcard:Author2>
+    <vcard:Author1>Vera Watson</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A44">
+    <vcard:Author3>Stefan Benzschawel</vcard:Author3>
+    <vcard:Author2>Jan Wilms</vcard:Author2>
+    <vcard:Author1>Toni Bollinger</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A45">
+    <vcard:Author3>Anja Theuner</vcard:Author3>
+    <vcard:Author2>Jim Gray</vcard:Author2>
+    <vcard:Author1>Udo Pletat</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A46">
+    <vcard:Author3>Theodor Lettmann</vcard:Author3>
+    <vcard:Author2>Siegfried Kanngie£¿er</vcard:Author2>
+    <vcard:Author1>Bernhard Nebel</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A47">
+    <vcard:Author3>Bernhard Beckert</vcard:Author3>
+    <vcard:Author2>E. F. Codd</vcard:Author2>
+    <vcard:Author1>Ingrid Renz</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A48">
+    <vcard:Author3>Peter Gerstl</vcard:Author3>
+    <vcard:Author2>Chin-Liang Chang</vcard:Author2>
+    <vcard:Author1>Karin Klabunde</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A49">
+    <vcard:Author3>Jennifer Brundage</vcard:Author3>
+    <vcard:Author2>Michel E. Adiba</vcard:Author2>
+    <vcard:Author1>Stefan B£¿rner</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A50">
+    <vcard:Authors rdf:nodeID="A38"/>
+    <vcard:Title>Standards f¨¹r das Programmieren in Prolog f¨¹r LILOG, Version 2.0</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A51">
+    <vcard:Authors rdf:nodeID="A34"/>
+    <vcard:Title>FLL: A First-Order Language for Deductive Retrieval of Feature Terms</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A52">
+    <vcard:Author3>Heiner Semle</vcard:Author3>
+    <vcard:Author2>Angi Vo£¿</vcard:Author2>
+    <vcard:Author1>Farshad Nayeri</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A53">
+    <vcard:Authors rdf:nodeID="A40"/>
+    <vcard:Title>Vor¨¹berlegungen zur depiktionalen Repr£¿sentation r£¿umlichen Wissens</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A54">
+    <vcard:Authors rdf:nodeID="A43"/>
+    <vcard:Title>Logisches Clustering von PROTOS-L Prozeduren</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A55">
+    <vcard:Authors rdf:nodeID="A41"/>
+    <vcard:Title>Integrating Heterogeneous, Autonomous, Distributed Applications Using the DOM Prototype.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A56">
+    <vcard:Authors rdf:nodeID="A44"/>
+    <vcard:Title>Reasoning for Text Understanding - Knowledge Processing in the 1st LILOG-Prototype</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A57">
+    <vcard:Authors rdf:nodeID="A45"/>
+    <vcard:Title>An Order Sorted Predicate Logic with Closely Coupled Taxonomic Information</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A58">
+    <vcard:Authors rdf:nodeID="A42"/>
+    <vcard:Title>Mengenorientierte Auswertung von Anfragen in der Logikprogrammiersprache PROLOG</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A59">
+    <vcard:Authors rdf:nodeID="A49"/>
+    <vcard:Title>Sort-Lattice Management in LILOG-DB</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A60">
+    <vcard:Authors rdf:nodeID="A52"/>
+    <vcard:Title>Distributed Object Management Technology.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A61">
+    <vcard:Authors rdf:nodeID="A46"/>
+    <vcard:Title>Quantifikation, Plural, Ereignisse und ihre Argumente in einer mehrsortigen Sprache der Pr£¿dikatenlogik erster Stufe</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A62">
+    <vcard:Authors rdf:nodeID="A47"/>
+    <vcard:Title>Representation and Reasoning with Attributive Descriptions</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A63">
+    <vcard:Authors rdf:nodeID="A48"/>
+    <vcard:Title>Knowledge Representation in LILOG</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A64">
+    <vcard:Author3>Stephan Waack</vcard:Author3>
+    <vcard:Author2>Wolfgang Sch£¿nfeld</vcard:Author2>
+    <vcard:Author1>Josef Gemander</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A65">
+    <vcard:Author3>Volker Schulz</vcard:Author3>
+    <vcard:Author2>Andreas Arning</vcard:Author2>
+    <vcard:Author1>George Markowsky</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A66">
+    <vcard:Author3>Christian Stangier</vcard:Author3>
+    <vcard:Author2>Holger Wittmann</vcard:Author2>
+    <vcard:Author1>Raymond F. Boyce</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A67">
+    <vcard:Author3>N. V. Koliev</vcard:Author3>
+    <vcard:Author2>Tibor Kiss</vcard:Author2>
+    <vcard:Author1>Michael Herweg</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A68">
+    <vcard:Author3>Ralph Scheubrein</vcard:Author3>
+    <vcard:Author2>Ulrich Schatz</vcard:Author2>
+    <vcard:Author1>Sandra Heiler</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A69">
+    <vcard:Author3>Eric Windisch</vcard:Author3>
+    <vcard:Author2>Otthein Herzog</vcard:Author2>
+    <vcard:Author1>Kurt Eberle</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A70">
+    <vcard:Author3>Karl Schlechta</vcard:Author3>
+    <vcard:Author2>J£¿rg Heinrich</vcard:Author2>
+    <vcard:Author1>Ulrich Hedtst¨¹ck</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A71">
+    <vcard:Author3>Nguyen V. Thoai</vcard:Author3>
+    <vcard:Author2>Stefan J. Schierholz</vcard:Author2>
+    <vcard:Author1>Bradford W. Wade</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A72">
+    <vcard:Author3>Markus M¨¹ller-Olm</vcard:Author3>
+    <vcard:Author2>Gregor Meyer</vcard:Author2>
+    <vcard:Author1>Robert S. Arnold</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A73">
+    <vcard:Author3>Kai Lebeth</vcard:Author3>
+    <vcard:Author2>Nick Roussopoulos</vcard:Author2>
+    <vcard:Author1>Peter H. Schmitt</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A74">
+    <vcard:Author3>Andreas Arning</vcard:Author3>
+    <vcard:Author2>Rainer B£¿uerle</vcard:Author2>
+    <vcard:Author1>Benjamin Hurwitz</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A75">
+    <vcard:Author3>Wolfgang Sch£¿nfeld</vcard:Author3>
+    <vcard:Author2>Christian Rohrer</vcard:Author2>
+    <vcard:Author1>Petra Maier</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A76">
+    <vcard:Author3>Elisabeth Neugebauer</vcard:Author3>
+    <vcard:Author2>Kenneth L. Deckert</vcard:Author2>
+    <vcard:Author1>Esther K£¿nig</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A77">
+    <vcard:Authors rdf:nodeID="A64"/>
+    <vcard:Title>Parsingstrategien f¨¹r Unifikationsgrammatiken mit ID/LP-Regeln</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A78">
+    <vcard:Authors rdf:nodeID="A65"/>
+    <vcard:Title>EFTA: An Algebra for Deductive Retrieval of Feature Terms</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A79">
+    <vcard:Authors rdf:nodeID="A66"/>
+    <vcard:Title>Cognitive Linguistics: The Processing of Spatial Concepts</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A80">
+    <vcard:Authors rdf:nodeID="A70"/>
+    <vcard:Title>Pluralbehandlung in nat¨¹rlichsprachlichen Wissensverabeitungssystemen</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A81">
+    <vcard:Authors rdf:nodeID="A68"/>
+    <vcard:Title>An Evaluation of Object-Oriented DBMS Developments: 1994 Edition.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A82">
+    <vcard:Authors rdf:nodeID="A69"/>
+    <vcard:Title>Object Model Capabilities For Distributed Object Management.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A83">
+    <vcard:Authors rdf:nodeID="A71"/>
+    <vcard:Title>Standards f¨¹r das Programmieren in Prolog f¨¹r LILOG, Version 1.0</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A84">
+    <vcard:Authors rdf:nodeID="A72"/>
+    <vcard:Title>Resolution with Feature Unification</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A85">
+    <vcard:Authors rdf:nodeID="A67"/>
+    <vcard:Title>An Algebraic Characterization of STUF</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A86">
+    <vcard:Authors rdf:nodeID="A76"/>
+    <vcard:Title>Terminological Reasoning is Inherently Intractable</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A87">
+    <vcard:Authors rdf:nodeID="A73"/>
+    <vcard:Title>Zur intelligenten Organisation von Wissensbest£¿nden in k¨¹nstlichen Systemen</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A88">
+    <vcard:Authors rdf:nodeID="A74"/>
+    <vcard:Title>Object Data Model Facilities for Multimedia Data Types.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A89">
+    <vcard:Authors rdf:nodeID="A75"/>
+    <vcard:Title>Attributive Concept Descriptions with Unions and Complements</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A90">
+    <vcard:Author3>H. Class</vcard:Author3>
+    <vcard:Author2>Rob A. van der Sandt</vcard:Author2>
+    <vcard:Author1>Cesare A. Galtieli</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A91">
+    <vcard:Author3>Siegfried Graf</vcard:Author3>
+    <vcard:Author2>Gudrun Klose</vcard:Author2>
+    <vcard:Author1>Donald D. Chamberlin</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A92">
+    <vcard:Author3>Arno Wagner</vcard:Author3>
+    <vcard:Author2>Jutta Krei£¿</vcard:Author2>
+    <vcard:Author1>Burkhard Kehrbusch</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A93">
+    <vcard:Author3>Rolf Sander</vcard:Author3>
+    <vcard:Author2>Brigitte Bartsch-Sp£¿rl</vcard:Author2>
+    <vcard:Author1>Manfred Schmidt-Schau£¿</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A94">
+    <vcard:Author3>Rolf Mayer</vcard:Author3>
+    <vcard:Author2>Carola Eschenbach</vcard:Author2>
+    <vcard:Author1>Mark F. Hornick</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A95">
+    <vcard:Author3>Aditya Nori</vcard:Author3>
+    <vcard:Author2>Eric Windisch</vcard:Author2>
+    <vcard:Author1>Sai Choi Kwan</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A96">
+    <vcard:Author3>Varmo Vene</vcard:Author3>
+    <vcard:Author2>Ralph Scheubrein</vcard:Author2>
+    <vcard:Author1>Jean-Marc Cadiou</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A97">
+    <vcard:Author3>Flemming Nielson</vcard:Author3>
+    <vcard:Author2>Gerd Kort¨¹m</vcard:Author2>
+    <vcard:Author1>Dines Bj£¿rner</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A98">
+    <vcard:Author3>Dieter Baum</vcard:Author3>
+    <vcard:Author2>Bart Geurts</vcard:Author2>
+    <vcard:Author1>F. G¨¹nthner</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A99">
+    <vcard:Authors rdf:nodeID="A90"/>
+    <vcard:Title>Algebraical Optimization of FTA-Expressions</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A100">
+    <vcard:Author3>Wilfried H£¿tker</vcard:Author3>
+    <vcard:Author2>Thomas Ludwig</vcard:Author2>
+    <vcard:Author1>Petra Steffens</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A101">
+    <vcard:Author3>Oliver Wauschkuhn</vcard:Author3>
+    <vcard:Author2>Irving L. Traiger</vcard:Author2>
+    <vcard:Author1>Michael Czymmeck</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A102">
+    <vcard:Author3>Rob A. van der Sandt</vcard:Author3>
+    <vcard:Author2>Kurt Rothermel</vcard:Author2>
+    <vcard:Author1>M. Tamer £¿zsu</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A103">
+    <vcard:Authors rdf:nodeID="A91"/>
+    <vcard:Title>Operationen in erweiterten Typunifikationsformalismen</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A104">
+    <vcard:Authors rdf:nodeID="A92"/>
+    <vcard:Title>On the Interpretation of Equality, Sorts, and Logic Programming</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A105">
+    <vcard:Authors rdf:nodeID="A95"/>
+    <vcard:Title>Zur Systemarchitektur von LILOG</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A106">
+    <vcard:Authors rdf:nodeID="A94"/>
+    <vcard:Title>Object Data Language Facilities for Multimedia Data Types.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A107">
+    <vcard:Authors rdf:nodeID="A93"/>
+    <vcard:Title>Integrating Object-Oriented Applications and Middleware with Relational Databases.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A108">
+    <vcard:Authors rdf:nodeID="A96"/>
+    <vcard:Title>Definite Resolution over Constraint Languages</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A109">
+    <vcard:Authors rdf:nodeID="A97"/>
+    <vcard:Title>The Knowledge Representation Language LLILOG</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A110">
+    <vcard:Authors rdf:nodeID="A98"/>
+    <vcard:Title>Die Sloppy/Referenzielle Ambiguit£¿t: Bildungssyntax oder Diskursrepr£¿sentationstheorie?</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A111">
+    <vcard:Author3>Harald Luschgy</vcard:Author3>
+    <vcard:Author2>Herbert J. Leass</vcard:Author2>
+    <vcard:Author1>Jim Gray</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A112">
+    <vcard:Authors rdf:nodeID="A102"/>
+    <vcard:Title>Experiments with Dispatching in a Distributed Object System.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A113">
+    <vcard:Authors rdf:nodeID="A100"/>
+    <vcard:Title>A Knowledge Level Analysis of Belief Revision</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A114">
+    <vcard:Authors rdf:nodeID="A101"/>
+    <vcard:Title>Subsumtion f¨¹r eine erweiterte attributive Sortenbeschreibungssprache</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A115">
+    <vcard:Author3>Gurami Tsitsiashvili</vcard:Author3>
+    <vcard:Author2>Elisabeth Breidt</vcard:Author2>
+    <vcard:Author1>Jan Wilms</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A116">
+    <vcard:Author3>Judy Goldsmith</vcard:Author3>
+    <vcard:Author2>Robert Dionne</vcard:Author2>
+    <vcard:Author1>Markus H£¿hfeld</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A117">
+    <vcard:Author3>Randal E. Bryant</vcard:Author3>
+    <vcard:Author2>Rolf Sander</vcard:Author2>
+    <vcard:Author1>Michel E. Adiba</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A118">
+    <vcard:Author3>Dimitri Efrosinin</vcard:Author3>
+    <vcard:Author2>Rolf Mayer</vcard:Author2>
+    <vcard:Author1>Chin-Liang Chang</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A119">
+    <vcard:Author3>Sven Lorenz</vcard:Author3>
+    <vcard:Author2>Walter G. Olthoff</vcard:Author2>
+    <vcard:Author1>Alejandro P. Buchmann</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A120">
+    <vcard:Author3>Helmut Seidl</vcard:Author3>
+    <vcard:Author2>Petra Schulz</vcard:Author2>
+    <vcard:Author1>E. F. Codd</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A121">
+    <vcard:Author3>Vladimir V. Kalashnikov</vcard:Author3>
+    <vcard:Author2>Sebastian Millies</vcard:Author2>
+    <vcard:Author1>Siegfried Kanngie£¿er</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A122">
+    <vcard:Author3>Lothar Breuer</vcard:Author3>
+    <vcard:Author2>D. Eberle</vcard:Author2>
+    <vcard:Author1>Angi Vo£¿</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A123">
+    <vcard:Authors rdf:nodeID="A111"/>
+    <vcard:Title>Vertr£¿glichkeitspr¨¹fungen f¨¹r die Verarbeitung r£¿umlichen Wissens</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A124">
+    <vcard:Author3>Phil Shaw</vcard:Author3>
+    <vcard:Author2>Ulrike Weiland</vcard:Author2>
+    <vcard:Author1>Peter Bosch</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A125">
+    <vcard:Authors rdf:nodeID="A115"/>
+    <vcard:Title>Semantics of Logic Programs with Equational Abstract Data Type Specifications</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A126">
+    <vcard:Author3>Herbert J. Leass</vcard:Author3>
+    <vcard:Author2>Manfred Grothaus</vcard:Author2>
+    <vcard:Author1>Kurt P. Brown</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A127">
+    <vcard:Author3>Adrian M¨¹ller</vcard:Author3>
+    <vcard:Author2>Christos Garidis</vcard:Author2>
+    <vcard:Author1>Dimitrios Georgakopoulos</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A128">
+    <vcard:Author3>Michael Klein</vcard:Author3>
+    <vcard:Author2>Michael Ley</vcard:Author2>
+    <vcard:Author1>Stefan B£¿ttcher</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A129">
+    <vcard:Authors rdf:nodeID="A116"/>
+    <vcard:Title>Die Struktur des Lexikons f¨¹r LILOG</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A130">
+    <vcard:Authors rdf:nodeID="A117"/>
+    <vcard:Title>Ein Transaktionskonzept f¨¹r LILOG</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A131">
+    <vcard:Author3>Birgit Wendholt</vcard:Author3>
+    <vcard:Author2>Arne Pott</vcard:Author2>
+    <vcard:Author1>Christopher Habel</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A132">
+    <vcard:Authors rdf:nodeID="A118"/>
+    <vcard:Title>LILOG - Linguistische und logische Methoden f¨¹r das maschinelle Verstehen des Deutschen - Projektbeschreibung</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A133">
+    <vcard:Authors rdf:nodeID="A120"/>
+    <vcard:Title>Qualit£¿tssicherung durch Programmverifikation und algebraische Methoden in der Softwareentwicklung</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A134">
+    <vcard:Authors rdf:nodeID="A119"/>
+    <vcard:Title>A 'RISC' Object Model for Object System Interoperation: Concepts and Applications.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A135">
+    <vcard:Authors rdf:nodeID="A121"/>
+    <vcard:Title>A Feature Logic with Subsorts</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A136">
+    <vcard:Authors rdf:nodeID="A124"/>
+    <vcard:Title>Der modale Infinitiv: Syntaktische oder lexikalische Beschreibung?</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A137">
+    <vcard:Authors rdf:nodeID="A122"/>
+    <vcard:Title>Representation and Accessibility of Discourse Referents</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A138">
+    <vcard:Author3>M. A. Osipova</vcard:Author3>
+    <vcard:Author2>Lutz Voelkel</vcard:Author2>
+    <vcard:Author1>J£¿rg Heinrich</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A139">
+    <vcard:Author3>Martin Mundhenk</vcard:Author3>
+    <vcard:Author2>Robert A. Weida</vcard:Author2>
+    <vcard:Author1>Otthein Herzog</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A140">
+    <vcard:Authors rdf:nodeID="A126"/>
+    <vcard:Title>PRPL: A Database Workload Specification Language, v1.3.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A141">
+    <vcard:Authors rdf:nodeID="A127"/>
+    <vcard:Title>MetaObject Protocol Concepts for a RISC Object Model.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A142">
+    <vcard:Authors rdf:nodeID="A128"/>
+    <vcard:Title>Zur Syntax pr£¿nominaler Elemente in einer kategorialen Unifikationsgrammatik des Deutschen</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A143">
+    <vcard:Author3>Alexander Kaplan</vcard:Author3>
+    <vcard:Author2>D. Marx</vcard:Author2>
+    <vcard:Author1>Ulrich Schatz</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A144">
+    <vcard:Author3>Vladimir Rykov</vcard:Author3>
+    <vcard:Author2>Sven Lorenz</vcard:Author2>
+    <vcard:Author1>Nick Roussopoulos</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A145">
+    <vcard:Author3>Igor N. Kovalenko</vcard:Author3>
+    <vcard:Author2>Hans-Joachim Goltz</vcard:Author2>
+    <vcard:Author1>Kenneth L. Deckert</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A146">
+    <vcard:Authors rdf:nodeID="A131"/>
+    <vcard:Title>Mathematical Logic and Artificial Intelligence</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A147">
+    <vcard:Author3>Christoph Meinel</vcard:Author3>
+    <vcard:Author2>Brigitte Bl£¿ser</vcard:Author2>
+    <vcard:Author1>Christian Rohrer</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://somewhere/person">
+    <vcard:Paper rdf:nodeID="A148"/>
+    <vcard:Paper rdf:nodeID="A109"/>
+    <vcard:Paper rdf:nodeID="A58"/>
+    <vcard:Paper rdf:nodeID="A82"/>
+    <vcard:Paper rdf:nodeID="A86"/>
+    <vcard:Paper rdf:nodeID="A31"/>
+    <vcard:Paper rdf:nodeID="A106"/>
+    <vcard:Paper rdf:nodeID="A33"/>
+    <vcard:Paper rdf:nodeID="A149"/>
+    <vcard:Paper rdf:nodeID="A150"/>
+    <vcard:Paper rdf:nodeID="A105"/>
+    <vcard:Paper rdf:nodeID="A103"/>
+    <vcard:Paper rdf:nodeID="A151"/>
+    <vcard:Paper rdf:nodeID="A50"/>
+    <vcard:Paper rdf:nodeID="A152"/>
+    <vcard:Paper rdf:nodeID="A84"/>
+    <vcard:Paper rdf:nodeID="A153"/>
+    <vcard:Paper rdf:nodeID="A146"/>
+    <vcard:Paper rdf:nodeID="A63"/>
+    <vcard:Paper rdf:nodeID="A154"/>
+    <vcard:Paper rdf:nodeID="A136"/>
+    <vcard:Paper rdf:nodeID="A28"/>
+    <vcard:Paper rdf:nodeID="A155"/>
+    <vcard:Paper rdf:nodeID="A36"/>
+    <vcard:Paper rdf:nodeID="A141"/>
+    <vcard:Paper rdf:nodeID="A88"/>
+    <vcard:Paper rdf:nodeID="A2"/>
+    <vcard:Paper rdf:nodeID="A80"/>
+    <vcard:Paper rdf:nodeID="A156"/>
+    <vcard:Paper rdf:nodeID="A55"/>
+    <vcard:Paper rdf:nodeID="A4"/>
+    <vcard:Paper rdf:nodeID="A135"/>
+    <vcard:Paper rdf:nodeID="A123"/>
+    <vcard:Paper rdf:nodeID="A11"/>
+    <vcard:Paper rdf:nodeID="A133"/>
+    <vcard:Paper rdf:nodeID="A79"/>
+    <vcard:Paper rdf:nodeID="A22"/>
+    <vcard:Paper rdf:nodeID="A107"/>
+    <vcard:Paper rdf:nodeID="A157"/>
+    <vcard:Paper rdf:nodeID="A54"/>
+    <vcard:Paper rdf:nodeID="A158"/>
+    <vcard:Paper rdf:nodeID="A29"/>
+    <vcard:Paper rdf:nodeID="A159"/>
+    <vcard:Paper rdf:nodeID="A160"/>
+    <vcard:Paper rdf:nodeID="A39"/>
+    <vcard:Paper rdf:nodeID="A99"/>
+    <vcard:Paper rdf:nodeID="A161"/>
+    <vcard:Paper rdf:nodeID="A104"/>
+    <vcard:Paper rdf:nodeID="A51"/>
+    <vcard:Paper rdf:nodeID="A85"/>
+    <vcard:Paper rdf:nodeID="A162"/>
+    <vcard:Paper rdf:nodeID="A30"/>
+    <vcard:Paper rdf:nodeID="A114"/>
+    <vcard:Paper rdf:nodeID="A57"/>
+    <vcard:Paper rdf:nodeID="A59"/>
+    <vcard:Paper rdf:nodeID="A134"/>
+    <vcard:Paper rdf:nodeID="A62"/>
+    <vcard:Paper rdf:nodeID="A6"/>
+    <vcard:Paper rdf:nodeID="A112"/>
+    <vcard:Paper rdf:nodeID="A163"/>
+    <vcard:Paper rdf:nodeID="A164"/>
+    <vcard:Paper rdf:nodeID="A130"/>
+    <vcard:Paper rdf:nodeID="A77"/>
+    <vcard:Paper rdf:nodeID="A60"/>
+    <vcard:Paper rdf:nodeID="A165"/>
+    <vcard:Paper rdf:nodeID="A129"/>
+    <vcard:Paper rdf:nodeID="A108"/>
+    <vcard:Paper rdf:nodeID="A166"/>
+    <vcard:Paper rdf:nodeID="A37"/>
+    <vcard:Paper rdf:nodeID="A110"/>
+    <vcard:Paper rdf:nodeID="A142"/>
+    <vcard:Paper rdf:nodeID="A87"/>
+    <vcard:Paper rdf:nodeID="A32"/>
+    <vcard:Paper rdf:nodeID="A89"/>
+    <vcard:Paper rdf:nodeID="A35"/>
+    <vcard:Paper rdf:nodeID="A140"/>
+    <vcard:Paper rdf:nodeID="A81"/>
+    <vcard:Paper rdf:nodeID="A167"/>
+    <vcard:Paper rdf:nodeID="A168"/>
+    <vcard:Paper rdf:nodeID="A169"/>
+    <vcard:Paper rdf:nodeID="A170"/>
+    <vcard:Paper rdf:nodeID="A171"/>
+    <vcard:Paper rdf:nodeID="A83"/>
+    <vcard:Paper rdf:nodeID="A137"/>
+    <vcard:Paper rdf:nodeID="A125"/>
+    <vcard:Paper rdf:nodeID="A172"/>
+    <vcard:Paper rdf:nodeID="A173"/>
+    <vcard:Paper rdf:nodeID="A174"/>
+    <vcard:Paper rdf:nodeID="A27"/>
+    <vcard:Paper rdf:nodeID="A175"/>
+    <vcard:Paper rdf:nodeID="A176"/>
+    <vcard:Paper rdf:nodeID="A53"/>
+    <vcard:Paper rdf:nodeID="A177"/>
+    <vcard:Paper rdf:nodeID="A8"/>
+    <vcard:Paper rdf:nodeID="A113"/>
+    <vcard:Paper rdf:nodeID="A56"/>
+    <vcard:Paper rdf:nodeID="A0"/>
+    <vcard:Paper rdf:nodeID="A61"/>
+    <vcard:Paper rdf:nodeID="A13"/>
+    <vcard:Paper rdf:nodeID="A178"/>
+    <vcard:Paper rdf:nodeID="A132"/>
+    <vcard:Paper rdf:nodeID="A78"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A179">
+    <vcard:Author3>S. Rotin</vcard:Author3>
+    <vcard:Author2>Thomas Pirlein</vcard:Author2>
+    <vcard:Author1>Rainer B£¿uerle</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A180">
+    <vcard:Author3>Maren Kresse</vcard:Author3>
+    <vcard:Author2>Gosse Bouma</vcard:Author2>
+    <vcard:Author1>Uwe Reyle</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A181">
+    <vcard:Author3>Friedemann Leibfritz</vcard:Author3>
+    <vcard:Author2>Michael Tarnowski</vcard:Author2>
+    <vcard:Author1>Petra Ludewig</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A182">
+    <vcard:Author3>David Beech</vcard:Author3>
+    <vcard:Author2>Martin H¨¹bner</vcard:Author2>
+    <vcard:Author1>Hans Uszkoreit</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A160">
+    <vcard:Authors rdf:nodeID="A138"/>
+    <vcard:Title>Feature Graphs and Abstract Data Types: A Unifying Approach</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A149">
+    <vcard:Authors rdf:nodeID="A139"/>
+    <vcard:Title>Wissensbasisverwaltung f¨¹r LILOG</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A161">
+    <vcard:Authors rdf:nodeID="A143"/>
+    <vcard:Title>Mentale Bilder und Wegbedeutungen</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A183">
+    <vcard:Author3>Ulrike Schwall</vcard:Author3>
+    <vcard:Author2>Kjell Johan Saeb£¿</vcard:Author2>
+    <vcard:Author1>Tolga Yurek</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A184">
+    <vcard:Author3>Gisela Sch£¿pke</vcard:Author3>
+    <vcard:Author2>Karl-Hans Bl£¿sius</vcard:Author2>
+    <vcard:Author1>Joe D. Morrison</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A185">
+    <vcard:Author3>Krishna G. Kulkarni</vcard:Author3>
+    <vcard:Author2>Wolfgang Wernecke</vcard:Author2>
+    <vcard:Author1>Simone Pribbenow</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A168">
+    <vcard:Authors rdf:nodeID="A144"/>
+    <vcard:Title>LILOG-DB: Database Support for Knowledge-Based Systems</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A150">
+    <vcard:Authors rdf:nodeID="A145"/>
+    <vcard:Title>Ereignisse und Repr£¿sentationen</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A171">
+    <vcard:Authors rdf:nodeID="A147"/>
+    <vcard:Title>¨¹ber Ans£¿tze zur Darstellung von Konzepten und Prototypen</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A186">
+    <vcard:Author3>Werner Kernig</vcard:Author3>
+    <vcard:Author2>Bruce G. Lindsay</vcard:Author2>
+    <vcard:Author1>Erich Gehlen</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A152">
+    <vcard:Authors rdf:nodeID="A179"/>
+    <vcard:Title>Textunderstanding in LILOG - Sorts and Reference Objects</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A166">
+    <vcard:Authors rdf:nodeID="A181"/>
+    <vcard:Title>Eine Prolog-Theorie f¨¹r zeitliche Beziehungen zwischen Ereignissen</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A151">
+    <vcard:Authors rdf:nodeID="A180"/>
+    <vcard:Title>A Conceptual Model for Time</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A169">
+    <vcard:Authors rdf:nodeID="A182"/>
+    <vcard:Title>On Structuring Domain-Specific Knowledge</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A172">
+    <vcard:Authors rdf:nodeID="A184"/>
+    <vcard:Title>Towards a Transaction Management System for DOM.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A187">
+    <vcard:Author3>Rustam Mubarakzjanov</vcard:Author3>
+    <vcard:Author2>Reiner H£¿hnle</vcard:Author2>
+    <vcard:Author1>Brigitte Bartsch-Sp£¿rl</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A188">
+    <vcard:Author3>Tim Voetmann</vcard:Author3>
+    <vcard:Author2>P. Klug-Lier</vcard:Author2>
+    <vcard:Author1>Carola Eschenbach</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A154">
+    <vcard:Authors rdf:nodeID="A183"/>
+    <vcard:Title>Efficient View Maintenance at Data Warehouses.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A174">
+    <vcard:Authors rdf:nodeID="A186"/>
+    <vcard:Title>A Calculus for Order-Sorted Predicate Logic with Sort Literals</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A158">
+    <vcard:Authors rdf:nodeID="A185"/>
+    <vcard:Title>The Semantics of Asserting and Retracting Clauses to Logic Programs</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A189">
+    <vcard:Author3>Volker Schillings</vcard:Author3>
+    <vcard:Author2>Ingo Raasch</vcard:Author2>
+    <vcard:Author1>Irving L. Traiger</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A190">
+    <vcard:Author3>Harald Sack</vcard:Author3>
+    <vcard:Author2>M. Wermke</vcard:Author2>
+    <vcard:Author1>Thomas Ludwig</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A191">
+    <vcard:Author3>Marco Gilbert</vcard:Author3>
+    <vcard:Author2>Gregor Erbach</vcard:Author2>
+    <vcard:Author1>Kurt Rothermel</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A192">
+    <vcard:Author3>El-Sayed M. E. Mostafa</vcard:Author3>
+    <vcard:Author2>Elke Busch</vcard:Author2>
+    <vcard:Author1>Mechthild Rickheit</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A193">
+    <vcard:Author3>Bernd Abb</vcard:Author3>
+    <vcard:Author2>H. Raymond Strong</vcard:Author2>
+    <vcard:Author1>Noam Paz</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A194">
+    <vcard:Author3>Nikolaus Ott</vcard:Author3>
+    <vcard:Author2>Kai-Uwe Carstensen</vcard:Author2>
+    <vcard:Author1>Birgit Wesche</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A195">
+    <vcard:Author3>Cetin Ozbutun</vcard:Author3>
+    <vcard:Author2>Claudia Maienborn</vcard:Author2>
+    <vcard:Author1>Helmar Gust</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A163">
+    <vcard:Authors rdf:nodeID="A187"/>
+    <vcard:Title>A Model for Discourse Particles</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A196">
+    <vcard:Author3>Gregor Meyer</vcard:Author3>
+    <vcard:Author2>Jean-Yves Lerner</vcard:Author2>
+    <vcard:Author1>Frank Manola</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A178">
+    <vcard:Authors rdf:nodeID="A188"/>
+    <vcard:Title>Chart-Parsing of Unification-Based Grammars with ID/LP-Rules</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A197">
+    <vcard:Author3>Ulrike Rackow</vcard:Author3>
+    <vcard:Author2>Vera Watson</vcard:Author2>
+    <vcard:Author1>J£¿rg H. Siekmann</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A198">
+    <vcard:Author3>Stefan Bayerl</vcard:Author3>
+    <vcard:Author2>Raymond A. Lorie</vcard:Author2>
+    <vcard:Author1>Albert Maier</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A199">
+    <vcard:Author3>Jim Melton</vcard:Author3>
+    <vcard:Author2>Ewald Lang</vcard:Author2>
+    <vcard:Author1>Mohammed Nadjib Khenkhar</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A155">
+    <vcard:Authors rdf:nodeID="A190"/>
+    <vcard:Title>Zum Begriff "Argumentstruktur" im Rahmen generativer worbildungstheoretischer Ans£¿tze</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A165">
+    <vcard:Authors rdf:nodeID="A191"/>
+    <vcard:Title>Computational aspects of three-valued logic</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A148">
+    <vcard:Authors rdf:nodeID="A192"/>
+    <vcard:Title>Wissensrepr£¿sentation und Maschinelles Lernen</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A164">
+    <vcard:Authors rdf:nodeID="A189"/>
+    <vcard:Title>An Effective Representation of Complex Clauses in a Relational Database</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A157">
+    <vcard:Authors rdf:nodeID="A195"/>
+    <vcard:Title>Word Order and Focus Projection</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A159">
+    <vcard:Authors rdf:nodeID="A193"/>
+    <vcard:Title>Erweiterung der Wissensrepr£¿sentationssprache L-LILOG um Konstrukte zur Spezifikation von Kontrollinformation</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A173">
+    <vcard:Authors rdf:nodeID="A194"/>
+    <vcard:Title>Implementation Aspects of a Natural Language Understanding System in a Prolog/DB Environment</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A200">
+    <vcard:Author3>M. B£¿hm</vcard:Author3>
+    <vcard:Author2>Bernd Page</vcard:Author2>
+    <vcard:Author1>Walter G. Olthoff</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A175">
+    <vcard:Authors rdf:nodeID="A196"/>
+    <vcard:Title>The 1995 SQL Reunion: People, Project, and Politics, May 29, 1995.</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A176">
+    <vcard:Authors rdf:nodeID="A197"/>
+    <vcard:Title>Attribute Inheritance Implemented on Top of a Relational Database System</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A162">
+    <vcard:Authors rdf:nodeID="A198"/>
+    <vcard:Title>¨¹ber Vergleichskonstruktionen</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A153">
+    <vcard:Authors rdf:nodeID="A199"/>
+    <vcard:Title>An Approach to Manage Large Inheritance Networks</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A201">
+    <vcard:Author3>A. Battermann</vcard:Author3>
+    <vcard:Author2>Eric Mays</vcard:Author2>
+    <vcard:Author1>Christos Garidis</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A202">
+    <vcard:Author3>Ekkehard W. Sachs</vcard:Author3>
+    <vcard:Author2>Andreas Eisele</vcard:Author2>
+    <vcard:Author1>Manfred Grothaus</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A203">
+    <vcard:Author3>E. Levitin</vcard:Author3>
+    <vcard:Author2>Geoffrey Simmons</vcard:Author2>
+    <vcard:Author1>Michael Ley</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <vcard:Author3>Anne Schiller</vcard:Author3>
+    <vcard:Author2>Josef Gemander</vcard:Author2>
+    <vcard:Author1>Werner Emde</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <vcard:Author3>Sonja M¨¹ller</vcard:Author3>
+    <vcard:Author2>Raymond F. Boyce</vcard:Author2>
+    <vcard:Author1>R¨¹diger Wirth</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <vcard:Author3>Ido Dagan</vcard:Author3>
+    <vcard:Author2>George Markowsky</vcard:Author2>
+    <vcard:Author1>Jochen D£¿rre</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A167">
+    <vcard:Authors rdf:nodeID="A200"/>
+    <vcard:Title>At Ease with "AT"</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <vcard:Author3>Jonathan Bauer</vcard:Author3>
+    <vcard:Author2>Karl Dotzek</vcard:Author2>
+    <vcard:Author1>Klaus Rehk£¿mper</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <vcard:Author3>Karel Oliva</vcard:Author3>
+    <vcard:Author2>Michael Herweg</vcard:Author2>
+    <vcard:Author1>Claus-Rainer Rollinger</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <vcard:Author3>Christoph Lingenfelder</vcard:Author3>
+    <vcard:Author2>Robert S. Arnold</vcard:Author2>
+    <vcard:Author1>Kai von Luck</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <vcard:Author3>J¨¹rgen Manowsky</vcard:Author3>
+    <vcard:Author2>Bradford W. Wade</vcard:Author2>
+    <vcard:Author1>Rudi Studer</vcard:Author1>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A170">
+    <vcard:Authors rdf:nodeID="A202"/>
+    <vcard:Title>Prozedurale Aspekte der Wegplanung und Wegbeschreibung</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A177">
+    <vcard:Authors rdf:nodeID="A203"/>
+    <vcard:Title>Integrating Model Theoretic and Proof Theoretic Interpretation of Logic Programs</vcard:Title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A156">
+    <vcard:Authors rdf:nodeID="A201"/>
+    <vcard:Title>Eine dreiwertige Logik zur Verarbeitung partieller Information</vcard:Title>
+  </rdf:Description>
+</rdf:RDF>

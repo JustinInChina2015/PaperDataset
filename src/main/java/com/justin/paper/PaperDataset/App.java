@@ -7,16 +7,18 @@ import org.apache.poi.hssf.usermodel.*;
 import org.apache.poi.poifs.filesystem.*;
 
 import com.hp.hpl.jena.rdf.model.*;
-import com.hp.hpl.jena.vocabulary.VCARD;
 
 public class App {
-	// some definitions
+
 	static String personURI = "http://somewhere/person";
-	static String infile = "C:\\Users\\Justin\\workspace\\Papers\\Paper_dataset.xls";
+	static String infile = "C:\\Users\\Justin\\workspace\\PaperDataset\\Paper_dataset.xls";
+	static String outfile = "C:\\Users\\Justin\\workspace\\PaperDataset\\PaperRDF.rdf";
 	
+	@SuppressWarnings("resource")
 	public static void main (String args[]) {
 		try {
 			POIFSFileSystem fs = new POIFSFileSystem(new FileInputStream(infile));
+			PrintWriter pw = new PrintWriter(outfile, "UTF-8");
 			HSSFWorkbook wb = new HSSFWorkbook(fs);
 		    HSSFSheet sheet = wb.getSheetAt(0);
 		    HSSFRow row;
@@ -60,19 +62,32 @@ public class App {
 		        }
 		    }
 		    
+		    // create an empty model
+			Model model = ModelFactory.createDefaultModel();
+			model.createResource(personURI);
+			
 		    for(int i = 0; i < rows-1; i++) {
-				// create an empty model
-				Model model = ModelFactory.createDefaultModel();
-				// create the resource and add properties cascading style
-				Resource paper = 
-						model.createResource(personURI)
-							.addProperty(PAPER.Title, titles.pop())
-							.addProperty(PAPER.Authors, model.createResource()
-								.addProperty(PAPER.Author1,  authors1.pop())
-								.addProperty(PAPER.Author2,  authors2.pop())
-								.addProperty(PAPER.Author3,  authors3.pop()));
-				model.write(System.out);
+				model.getResource(personURI)
+				    .addProperty(PAPER.Paper, model.createResource()
+						.addProperty(PAPER.Title, titles.pop())
+						.addProperty(PAPER.Authors, model.createResource()
+							.addProperty(PAPER.Author1, authors1.pop())
+							.addProperty(PAPER.Author2, authors2.pop())
+							.addProperty(PAPER.Author3, authors3.pop())));
 		    }
+		    
+		    /*for(int i = 0; i < rows-1; i++) {
+		    	model.createResource(personURI)
+		    		.addProperty(PAPER.Title, model.createResource(titles.pop())
+				    	.addProperty(PAPER.Author1, authors1.pop())
+						.addProperty(PAPER.Author2, authors2.pop())
+						.addProperty(PAPER.Author3, authors3.pop()));
+		    }*/
+		    
+		    model.write(System.out);
+			model.write(pw);
+			pw.close();
+			
 		} catch (IOException ioe) {
 			ioe.printStackTrace();
 		}

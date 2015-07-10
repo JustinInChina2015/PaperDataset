@@ -17,6 +17,7 @@ public class PAPER {
 
     private static Model m = ModelFactory.createDefaultModel();
     
+    public static final Property Paper = m.createProperty(uri, "Paper" );
     public static final Property Title = m.createProperty(uri, "Title" );
     public static final Property Author1 = m.createProperty(uri, "Author1" );
     public static final Property Author2 = m.createProperty(uri, "Author2" );
